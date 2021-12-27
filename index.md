@@ -11,7 +11,7 @@ Varvara is a specification for a set of I/O devices connected to a Uxn cpu.
 - <uxn.md> - Information on the CPU core and instruction set
 - <devices.md> - The device interrupt model of the Uxn CPU
 
-### <devices/> Varvara device spec
+### <devices> Varvara device spec
 - <devices/console.md> - Byte stream device
 - <devices/audio.md> - 8-bit sampled audio channels
 - <devices/datetime.md> - System to poll the real-world time

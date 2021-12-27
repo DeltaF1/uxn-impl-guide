@@ -23,7 +23,7 @@ with single byte offsets through the LDZ and STZ instructions.
 
 ## Device memory
 
-See <devices.md> and <devices/> for more information.
+See <devices.md> and <devices> for more information.
 
 ## Modes
 
