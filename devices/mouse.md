@@ -19,13 +19,16 @@ the vector will trigger and the corresponding bit is cleared.
 e.x.
 
 If mouse button 1 and mouse button 2 are being held down, the byte will be
-  0b0000 0011 = 0x03
+
+    0b0000 0011 = 0x03
 
 If mouse button 3 and mouse button 5 are being held down, the byte will be
-  0b0001 0100 = 0x14
+
+    0b0001 0100 = 0x14
 
 If mouse button 5 is released, the byte will now be
-  0b0000 0100 = 0x04
+
+    0b0000 0100 = 0x04
 
 ### 0x9a - Scroll X
 
