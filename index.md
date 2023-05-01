@@ -1,3 +1,6 @@
+# ! This repo is very out of date and I have not kept it up to date with any changes to the spec since January 2022 !
+I have lost interest in this project and am unlikely to update it any time soon. The instruction set itself has changed and I believe there have been lots of changes to various devices in the interim. Take everything still here with a grain of salt.
+
 # Uxn implementation guide
 
 Uxn is a stack-based virtual machine that describes an [Instruction Set Architecture](https://en.wikipedia.org/wifi/Instruction_set_architecture).
